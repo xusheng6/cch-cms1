@@ -1,0 +1,29 @@
+name: Public build and content checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  portable:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Check the public tree and history allowlist
+        run: python3 tools/check_public_tree.py --history
+      - name: Build without original game files
+        run: |
+          cmake -S port -B port/build -DCMAKE_BUILD_TYPE=Release
+          cmake --build port/build --parallel 2
+      - name: C regression tests
+        working-directory: port/build
+        run: ctest --output-on-failure
+      - name: Public fixture smoke test
+        run: |
+          python3 tools/test_cms1_oracle.py
+          python3 tools/compare_cms1_oracle.py port/tests/oracles/audit-100.jsonl port/build/cch --jobs 2

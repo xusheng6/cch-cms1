@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+<title id="title">CCH preservation checkpoints</title>
+<desc id="desc">The tested corpus grows from 8,100 to 408,708 cases. New positions repeatedly expose a few mismatches, subsequently fixed. Each checkpoint uses its own corpus, not a fixed benchmark.</desc>
+<rect width="1000" height="560" rx="12" fill="#f8fafc"/>
+<g font-family="system-ui, sans-serif" fill="#172238">
+<text x="40" y="38" font-size="24" font-weight="700">More positions kept finding more details</text>
+<text x="40" y="65" font-size="14">Versioned checkpoints · corpus size and unresolved move/score mismatches</text>
+<path d="M85 280.0H950" stroke="#d9e2ec"/>
+<text x="73" y="285.0" text-anchor="end" font-size="12">0k</text>
+<path d="M85 237.14285714285714H950" stroke="#d9e2ec"/>
+<text x="73" y="242.14285714285714" text-anchor="end" font-size="12">100k</text>
+<path d="M85 194.28571428571428H950" stroke="#d9e2ec"/>
+<text x="73" y="199.28571428571428" text-anchor="end" font-size="12">200k</text>
+<path d="M85 151.42857142857142H950" stroke="#d9e2ec"/>
+<text x="73" y="156.42857142857142" text-anchor="end" font-size="12">300k</text>
+<path d="M85 108.57142857142858H950" stroke="#d9e2ec"/>
+<text x="73" y="113.57142857142858" text-anchor="end" font-size="12">400k</text>
+<polyline points="85.00,276.53 111.21,276.53 137.42,276.53 163.64,276.53 189.85,274.81 216.06,274.81 242.27,273.10 268.48,273.10 294.70,271.39 320.91,269.67 347.12,269.67 373.33,267.96 399.55,267.96 425.76,266.24 451.97,266.24 478.18,264.53 504.39,262.81 530.61,262.81 556.82,261.10 583.03,259.39 609.24,259.39 635.45,255.96 661.67,252.53 687.88,252.53 714.09,249.10 740.30,249.10 766.52,245.67 792.73,245.67 818.94,242.24 845.15,225.10 871.36,207.96 897.58,199.39 923.79,105.10 950.00,104.84" fill="none" stroke="#176b9b" stroke-width="3"/>
+<circle cx="85.00" cy="276.53" r="3" fill="#176b9b"><title>Checkpoint 001: 8,097/8,100; 3 mismatches</title></circle>
+<rect x="79.00" y="408.00" width="12" height="57.00" fill="#b85d18"><title>Checkpoint 001: 8,097/8,100; 3 mismatches</title></rect>
+<circle cx="111.21" cy="276.53" r="3" fill="#176b9b"><title>Checkpoint 002: 8,098/8,100; 2 mismatches</title></circle>
+<rect x="105.21" y="427.00" width="12" height="38.00" fill="#b85d18"><title>Checkpoint 002: 8,098/8,100; 2 mismatches</title></rect>
+<circle cx="137.42" cy="276.53" r="3" fill="#176b9b"><title>Checkpoint 003: 8,100/8,100; 0 mismatches</title></circle>
+<circle cx="137.42" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 003: 8,100/8,100; 0 mismatches</title></circle>
+<circle cx="163.64" cy="276.53" r="3" fill="#176b9b"><title>Checkpoint 004: 8,100/8,100; 0 mismatches</title></circle>
+<circle cx="163.64" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 004: 8,100/8,100; 0 mismatches</title></circle>
+<circle cx="189.85" cy="274.81" r="3" fill="#176b9b"><title>Checkpoint 005: 12,095/12,100; 5 mismatches</title></circle>
+<rect x="183.85" y="370.00" width="12" height="95.00" fill="#b85d18"><title>Checkpoint 005: 12,095/12,100; 5 mismatches</title></rect>
+<circle cx="216.06" cy="274.81" r="3" fill="#176b9b"><title>Checkpoint 006: 12,100/12,100; 0 mismatches</title></circle>
+<circle cx="216.06" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 006: 12,100/12,100; 0 mismatches</title></circle>
+<circle cx="242.27" cy="273.10" r="3" fill="#176b9b"><title>Checkpoint 007: 16,096/16,100; 4 mismatches</title></circle>
+<rect x="236.27" y="389.00" width="12" height="76.00" fill="#b85d18"><title>Checkpoint 007: 16,096/16,100; 4 mismatches</title></rect>
+<circle cx="268.48" cy="273.10" r="3" fill="#176b9b"><title>Checkpoint 008: 16,100/16,100; 0 mismatches</title></circle>
+<circle cx="268.48" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 008: 16,100/16,100; 0 mismatches</title></circle>
+<circle cx="294.70" cy="271.39" r="3" fill="#176b9b"><title>Checkpoint 009: 20,100/20,100; 0 mismatches</title></circle>
+<circle cx="294.70" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 009: 20,100/20,100; 0 mismatches</title></circle>
+<circle cx="320.91" cy="269.67" r="3" fill="#176b9b"><title>Checkpoint 010: 24,097/24,100; 3 mismatches</title></circle>
+<rect x="314.91" y="408.00" width="12" height="57.00" fill="#b85d18"><title>Checkpoint 010: 24,097/24,100; 3 mismatches</title></rect>
+<circle cx="347.12" cy="269.67" r="3" fill="#176b9b"><title>Checkpoint 011: 24,100/24,100; 0 mismatches</title></circle>
+<circle cx="347.12" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 011: 24,100/24,100; 0 mismatches</title></circle>
+<circle cx="373.33" cy="267.96" r="3" fill="#176b9b"><title>Checkpoint 012: 28,099/28,100; 1 mismatches</title></circle>
+<rect x="367.33" y="446.00" width="12" height="19.00" fill="#b85d18"><title>Checkpoint 012: 28,099/28,100; 1 mismatches</title></rect>
+<circle cx="399.55" cy="267.96" r="3" fill="#176b9b"><title>Checkpoint 013: 28,100/28,100; 0 mismatches</title></circle>
+<circle cx="399.55" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 013: 28,100/28,100; 0 mismatches</title></circle>
+<circle cx="425.76" cy="266.24" r="3" fill="#176b9b"><title>Checkpoint 014: 32,099/32,100; 1 mismatches</title></circle>
+<rect x="419.76" y="446.00" width="12" height="19.00" fill="#b85d18"><title>Checkpoint 014: 32,099/32,100; 1 mismatches</title></rect>
+<circle cx="451.97" cy="266.24" r="3" fill="#176b9b"><title>Checkpoint 015: 32,100/32,100; 0 mismatches</title></circle>
+<circle cx="451.97" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 015: 32,100/32,100; 0 mismatches</title></circle>
+<circle cx="478.18" cy="264.53" r="3" fill="#176b9b"><title>Checkpoint 016: 36,099/36,100; 1 mismatches</title></circle>
+<rect x="472.18" y="446.00" width="12" height="19.00" fill="#b85d18"><title>Checkpoint 016: 36,099/36,100; 1 mismatches</title></rect>
+<circle cx="504.39" cy="262.81" r="3" fill="#176b9b"><title>Checkpoint 017: 40,099/40,100; 1 mismatches</title></circle>
+<rect x="498.39" y="446.00" width="12" height="19.00" fill="#b85d18"><title>Checkpoint 017: 40,099/40,100; 1 mismatches</title></rect>
+<circle cx="530.61" cy="262.81" r="3" fill="#176b9b"><title>Checkpoint 018: 40,100/40,100; 0 mismatches</title></circle>
+<circle cx="530.61" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 018: 40,100/40,100; 0 mismatches</title></circle>
+<circle cx="556.82" cy="261.10" r="3" fill="#176b9b"><title>Checkpoint 019: 44,100/44,100; 0 mismatches</title></circle>
+<circle cx="556.82" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 019: 44,100/44,100; 0 mismatches</title></circle>
+<circle cx="583.03" cy="259.39" r="3" fill="#176b9b"><title>Checkpoint 020: 48,099/48,100; 1 mismatches</title></circle>
+<rect x="577.03" y="446.00" width="12" height="19.00" fill="#b85d18"><title>Checkpoint 020: 48,099/48,100; 1 mismatches</title></rect>
+<circle cx="609.24" cy="259.39" r="3" fill="#176b9b"><title>Checkpoint 021: 48,100/48,100; 0 mismatches</title></circle>
+<circle cx="609.24" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 021: 48,100/48,100; 0 mismatches</title></circle>
+<circle cx="635.45" cy="255.96" r="3" fill="#176b9b"><title>Checkpoint 022: 56,100/56,100; 0 mismatches</title></circle>
+<circle cx="635.45" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 022: 56,100/56,100; 0 mismatches</title></circle>
+<circle cx="661.67" cy="252.53" r="3" fill="#176b9b"><title>Checkpoint 023: 64,098/64,100; 2 mismatches</title></circle>
+<rect x="655.67" y="427.00" width="12" height="38.00" fill="#b85d18"><title>Checkpoint 023: 64,098/64,100; 2 mismatches</title></rect>
+<circle cx="687.88" cy="252.53" r="3" fill="#176b9b"><title>Checkpoint 024: 64,100/64,100; 0 mismatches</title></circle>
+<circle cx="687.88" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 024: 64,100/64,100; 0 mismatches</title></circle>
+<circle cx="714.09" cy="249.10" r="3" fill="#176b9b"><title>Checkpoint 025: 72,099/72,100; 1 mismatches</title></circle>
+<rect x="708.09" y="446.00" width="12" height="19.00" fill="#b85d18"><title>Checkpoint 025: 72,099/72,100; 1 mismatches</title></rect>
+<circle cx="740.30" cy="249.10" r="3" fill="#176b9b"><title>Checkpoint 026: 72,100/72,100; 0 mismatches</title></circle>
+<circle cx="740.30" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 026: 72,100/72,100; 0 mismatches</title></circle>
+<circle cx="766.52" cy="245.67" r="3" fill="#176b9b"><title>Checkpoint 027: 80,098/80,100; 2 mismatches</title></circle>
+<rect x="760.52" y="427.00" width="12" height="38.00" fill="#b85d18"><title>Checkpoint 027: 80,098/80,100; 2 mismatches</title></rect>
+<circle cx="792.73" cy="245.67" r="3" fill="#176b9b"><title>Checkpoint 028: 80,100/80,100; 0 mismatches</title></circle>
+<circle cx="792.73" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 028: 80,100/80,100; 0 mismatches</title></circle>
+<circle cx="818.94" cy="242.24" r="3" fill="#176b9b"><title>Checkpoint 029: 88,100/88,100; 0 mismatches</title></circle>
+<circle cx="818.94" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 029: 88,100/88,100; 0 mismatches</title></circle>
+<circle cx="845.15" cy="225.10" r="3" fill="#176b9b"><title>Checkpoint 030: 128,095/128,100; 5 mismatches</title></circle>
+<rect x="839.15" y="370.00" width="12" height="95.00" fill="#b85d18"><title>Checkpoint 030: 128,095/128,100; 5 mismatches</title></rect>
+<circle cx="871.36" cy="207.96" r="3" fill="#176b9b"><title>Checkpoint 031: 168,100/168,100; 0 mismatches</title></circle>
+<circle cx="871.36" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 031: 168,100/168,100; 0 mismatches</title></circle>
+<circle cx="897.58" cy="199.39" r="3" fill="#176b9b"><title>Checkpoint 032: 188,099/188,100; 1 mismatches</title></circle>
+<rect x="891.58" y="446.00" width="12" height="19.00" fill="#b85d18"><title>Checkpoint 032: 188,099/188,100; 1 mismatches</title></rect>
+<circle cx="923.79" cy="105.10" r="3" fill="#176b9b"><title>Checkpoint 033: 408,100/408,100; 0 mismatches</title></circle>
+<circle cx="923.79" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 033: 408,100/408,100; 0 mismatches</title></circle>
+<circle cx="950.00" cy="104.84" r="3" fill="#176b9b"><title>Checkpoint 034: 408,708/408,708; 0 mismatches</title></circle>
+<circle cx="950.00" cy="465" r="2.5" fill="#176b9b"><title>Checkpoint 034: 408,708/408,708; 0 mismatches</title></circle>
+<text x="950" y="92.84" text-anchor="end" font-size="15" font-weight="700">408,708 tested cases</text>
+<text x="85" y="340" font-size="16" font-weight="600">Unresolved mismatches at each checkpoint</text>
+<text x="73" y="469.0" text-anchor="end" font-size="12">0</text>
+<text x="73" y="450.0" text-anchor="end" font-size="12">1</text>
+<text x="73" y="412.0" text-anchor="end" font-size="12">3</text>
+<text x="73" y="374.0" text-anchor="end" font-size="12">5</text>
+<path d="M85 465H950" stroke="#bccbd9"/>
+<text x="85.00" y="488" text-anchor="middle" font-size="12">001</text>
+<text x="189.85" y="488" text-anchor="middle" font-size="12">005</text>
+<text x="320.91" y="488" text-anchor="middle" font-size="12">010</text>
+<text x="451.97" y="488" text-anchor="middle" font-size="12">015</text>
+<text x="583.03" y="488" text-anchor="middle" font-size="12">020</text>
+<text x="714.09" y="488" text-anchor="middle" font-size="12">025</text>
+<text x="845.15" y="488" text-anchor="middle" font-size="12">030</text>
+<text x="950.00" y="488" text-anchor="middle" font-size="12">034</text>
+<text x="500" y="512" text-anchor="middle" font-size="13">Checkpoint (not elapsed time)</text>
+<text x="40" y="540" font-size="12">Different corpora at different checkpoints; no historical 0% starting point or universal equivalence is implied.</text>
+</g></svg>
